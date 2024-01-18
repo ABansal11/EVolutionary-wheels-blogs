@@ -1,5 +1,6 @@
 ---
 title: "eVTOLs and the Evolution of Flying Cars in Our Future"
+seoTitle: "eVTOLs: Future Flying Cars Evolution"
 seoDescription: "Explore eVTOLs' potential to revolutionize transportation with reduced time, environmental impact, and improved accessibility; address battery technol..."
 datePublished: Sun Jan 08 2023 06:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clr7xqd6t00050ajjckqu964w
