@@ -2,7 +2,7 @@
 title: "The Alchemist: What's My Personal Legend?"
 seoTitle: "Alchemist: Discover Your Personal Legend"
 seoDescription: "Uncover your Personal Legend with The Alchemist, Santiago's journey revealing life, love, destiny, and hidden lessons to embrace your path"
-datePublished: Sun Jan 21 2024 22:40:17 GMT+0000 (Coordinated Universal Time)
+datePublished: Fri Jan 13 2023 06:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clro30gt900000algeduebf8h
 slug: the-alchemist-whats-my-personal-legend
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705866607894/c603b531-df55-4d92-9220-46302b1a2b80.jpeg
